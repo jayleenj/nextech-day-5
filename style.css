@@ -3,6 +3,7 @@ body {
     background-color: rgb(253 234 228);
     color: #5f392d;
     padding: 10px;
+    font-family: "Adamina", Times, serif;
 }
 
 h1 {
@@ -12,6 +13,7 @@ h1 {
     border: 5px solid #5f392d;
     color: #5f392d;
     padding: 20px;
+    font-family: "Adamina", Times, serif;
 }
 
 /* The code below centers all images on the page and gives them a width of 400px. */
@@ -33,6 +35,8 @@ h1 {
 h2 {
     text-align:center;
     color: #5f392d;
+    font-family: "Adamina", Times, serif;
+
 }
 
 /* The code below aligns all the sections horizontally on the bottom. */
@@ -67,4 +71,6 @@ h2 {
 
 a {
     color: #5f392d;
+    font-family: "Adamina", Times, serif;
+
 }
