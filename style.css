@@ -1,6 +1,17 @@
 /* The code below centers the text of all h1's on the page. */
+body {
+    background-color: rgb(253 234 228);
+    color: #5f392d;
+    padding: 10px;
+}
+
 h1 {
     text-align:center;
+    background-color: #fbe0d7;
+    border: 50px solid #fbe0d7;
+    border: 5px solid #5f392d;
+    color: #5f392d;
+    padding: 20px;
 }
 
 /* The code below centers all images on the page and gives them a width of 400px. */
@@ -14,6 +25,7 @@ img {
 /* The code below centers the text of all h2's on the page. */
 h2 {
     text-align:center;
+    color: #5f392d;
 }
 
 /* The code below aligns all the sections horizontally on the bottom. */
@@ -24,6 +36,8 @@ h2 {
 
 /* The code below a solid black border to section and puts space between them (the margin). */
 .section {
-    border: 5px black solid;
+    border: 5px #5f392d solid;
     margin:5px;
+    padding: 5px;
+    color: #5f392d;
 }
